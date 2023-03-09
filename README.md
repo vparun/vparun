@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vparun
-- 👀 I’m interested in DotnetCore, C#, Angular, Jenkin's, AWS, 
+- 👋 Hi, I’m Arunkumar
+- 👀 I’m interested in DotnetCore, C#, Docker, Angular, Jenkin's, AWS, 
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on DotnetCore
 - 📫 How to reach me arunkumar.ps1988@gamil.com
